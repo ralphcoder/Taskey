@@ -1,16 +1,10 @@
 # taskey
 
-A new Flutter application.
+flutter app for your daily todo.☑
 
-## Getting Started
+## Todo i performed to make this flutter app😅
+-made rows and column,appbar, drawer,FAB to make the basic strucuture of main screen.
+-added listview builder with listTile to make todo list.
+-used provider package for state management to make the adding,tracking,deleting of tasks dynamic.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
