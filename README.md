@@ -1,4 +1,4 @@
-# taskey
+# Taskey
 flutter app for your daily todo.☑
 
 ![alt text](https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/Mockup_02_marble_PSD_compressed.jpg
