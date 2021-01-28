@@ -5,7 +5,7 @@ The flutter app for your daily todos.
 )
 
 ## Todo i performed to make this flutter app 😅
-- Created rows, column, containers, graditents, appbar, drawer, FAB(Floating action button) to make the basic strucuture of main screen.
+- Created rows, columns, containers, graditents, appbar, drawer, FAB(Floating action button) to make the basic strucuture of main screen.
 - Added listview builder with listTile to make todo list.
 - Ased provider package for state management to make the **adding, tracking, deleting** of tasks dynamic.
 - Added nice slide effect to delete a task.
