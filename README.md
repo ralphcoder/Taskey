@@ -1,5 +1,5 @@
 # Taskey
-The flutter app for daily todos. 
+A flutter app for daily todos. 
 
 ![alt text](https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/Mockup_02_marble_PSD_compressed.jpg
 )
