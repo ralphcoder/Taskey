@@ -57,7 +57,7 @@ class _bottomSheetState extends State<bottomSheet> {
                   MaterialButton(
                     onPressed: () {
                       setState(() {
-                        Provider.of<Data>(context, listen: false)
+                        Provider.of<Data>(context, listen: false)//adding teh new task 
                             .addtask(inputext);
                         Navigator.pop(context);
                       });
