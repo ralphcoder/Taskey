@@ -1,5 +1,7 @@
 # Taskey
-A flutter app for daily todos. 
+A flutter app for daily todos.
+Increase your productivity by making a short todo list of your daily work.
+
 
 ![alt text](https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/Mockup_02_marble_PSD_compressed.jpg
 )
